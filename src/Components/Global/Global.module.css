@@ -1,9 +1,13 @@
 .container {
   margin: 50px 0px;
+  display: flex;
+  flex-direction: column;
 }
 
 .Card {
   margin: 0 2% !important;
+  display: flex;
+  flex-direction: column;
 }
 
 .infected {
@@ -26,4 +30,5 @@
   .Card {
     margin: 2% 0 !important;
   }
+
 }

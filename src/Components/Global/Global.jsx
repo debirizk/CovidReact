@@ -58,7 +58,7 @@ export default class Global extends Component {
               md={2}
               key={1}
               className={styles.Card, styles.infected}
-              style={{ margin: "0px 453.675px", padding: "1px" }}
+              style={{ margin: "0px 453.675px", padding: "1px"}}
             >
               <CardContent>
                 <Typography color="textPrimary" gutterBottom>
